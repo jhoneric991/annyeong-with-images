@@ -9,7 +9,23 @@ h1 {
 	color: #2f9bca;
 	margin-left: 20px;
 }
+=========
+
+body{
+	background-color: #fcecc1;
+	font-family: "Monserrat", sans-serif;
+	font-size: 14px;
+}
+>>>>>>>>> annyeong-with-image
+h1 {
+	color: #f28888;
+	margin-left: 20px;
+}
 p {
 	color: #444444;
 	margin-left: 20px;
 }
+<<<<<<<<< HEAD
+
+========
+>>>>>>>> annyeaong-with-image
